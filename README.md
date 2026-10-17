@@ -1,6 +1,6 @@
 # ASTRO HPC docs
 
-Source for the group's documentation site, built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and hosted on Read the Docs.
+Source for the group's documentation site, built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and published to GitHub Pages by the workflow in `.github/workflows/docs.yml` on every push to `main`.
 
 ## Editing
 
